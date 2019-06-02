@@ -1,4 +1,4 @@
-function cat(){
+function Cat(){
 	this.stomach = [];
 }
 Cat.prototype.eat = function(Mouse){
